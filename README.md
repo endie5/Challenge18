@@ -5,7 +5,7 @@ Using Python, we create a local blockchain on our device. The code revolves arou
 
 The functions in the blockchain data class shoudl confirm the validity of the blockchain by comparing hashes and should also run the proof of work algorithmn.
 
-##Technology
+## Technology
 
 ```
 import streamlit as st
@@ -16,7 +16,7 @@ import pandas as pd
 import hashlib
 ```
 
-##Usage
+## Usage
 
 Difficulty = 2
 ![Difficulty 2 Transaction 1](/Images/Test1.JPG)
